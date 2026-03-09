@@ -1,6 +1,6 @@
 ## How to Use
 
-1. **Save the code**
+1. **Save the file(Coloured_Image_to_GrayScale_conversion.py)**
    Download or clone the repository and place the Python file in a folder on your system.
 
 2. **Run the program**
